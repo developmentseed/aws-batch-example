@@ -1,0 +1,4 @@
+node_modules
+*.mbtiles
+*.mbtiles.gz
+output.json
